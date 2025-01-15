@@ -1,3 +1,5 @@
+from task import Task
+
 class Day:
     def __init__(self, name, date):
         self.name = name
