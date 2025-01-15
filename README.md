@@ -15,3 +15,6 @@ Day Class
 Task Class 
 - Properties will include task name, task description and task status
 - Functions will include addition and removal of tasks, and completion of task.
+
+Main System Class
+- Functions will include the main menu, and execute function for it to be called in main.py
