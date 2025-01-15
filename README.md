@@ -5,7 +5,7 @@ I am creating this program as a starting point in my python journey, it will all
 Main Features/Classes
 ---------------------
 Week Class 
-- Properties will include a list of days, a start date and end date.
+- Properties will include a list of days and a start date.
 - Functions will include addition and removal of weeks
 
 Day Class 
