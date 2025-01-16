@@ -5,3 +5,5 @@ class Day:
         self.name = name
         self.date = date
         self.tasks = []
+
+        
